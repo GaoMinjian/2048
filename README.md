@@ -9,7 +9,7 @@ css-
     xsStyle.css --屏幕尺寸小于500px时的样式
 js-
     animation.js --所有动画效果的实现
-    bootstrap.min.js
+    bootstrap.min.js --bootstrap
     cellStyle.js --每个格子的大小颜色等函数
     game.js --游戏主要逻辑
     jquery-3.3.1.min.js
