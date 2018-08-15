@@ -1,8 +1,8 @@
 # 2048
 实现了不同尺寸的适应以及移动端的滑动操作。
-
+<br/>
 文件目录：
-index.html --主页面
+<br/>index.html --主页面
 <br/>css-
 <br/>    bootstrap.min.css --bootstrap文件
 <br/>    style.css --基础样式
