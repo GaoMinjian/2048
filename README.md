@@ -3,13 +3,13 @@
 
 文件目录：
 index.html --主页面
-css-<br/>
-    bootstrap.min.css --bootstrap文件
-    style.css --基础样式
-    xsStyle.css --屏幕尺寸小于500px时的样式
-js-
-    animation.js --所有动画效果的实现
-    bootstrap.min.js --bootstrap
-    cellStyle.js --每个格子的大小颜色等函数
-    game.js --游戏主要逻辑
-    jquery-3.3.1.min.js
+<br/>css-
+<br/>    bootstrap.min.css --bootstrap文件
+<br/>    style.css --基础样式
+<br/>    xsStyle.css --屏幕尺寸小于500px时的样式
+<br/>js-
+<br/>    animation.js --所有动画效果的实现
+<br/>    bootstrap.min.js --bootstrap
+<br/>    cellStyle.js --每个格子的大小颜色等函数
+<br/>    game.js --游戏主要逻辑
+<br/>    jquery-3.3.1.min.js
