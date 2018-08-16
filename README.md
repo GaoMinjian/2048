@@ -13,4 +13,6 @@
 <br/>    bootstrap.min.js --bootstrap
 <br/>    cellStyle.js --每个格子的大小颜色等函数
 <br/>    game.js --游戏主要逻辑
-<br/>    jquery-3.3.1.min.js
+<br/>    jquery-3.3.1.min.j
+<br/>
+在线地址:http://112.74.53.108/2048/
